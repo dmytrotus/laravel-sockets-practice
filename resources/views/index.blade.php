@@ -25,6 +25,14 @@
       <button id="start" class="btn btn-success m-3">Start Progress</button>
       <button id="clear" class="btn btn-danger m-3">Clear Progress</button>
 
+      <ul>
+        <li>Need to make with products</li>
+        <li>Need to make method which creates product</li>
+        <li>Need to make Job which runs this method 10 times with sleep(1)</li>
+        <li>Need to dispatch job and change status in db with percentage</li>
+        <li>Need to make sockets which update the status bar</li>
+      </ul>
+
     </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
